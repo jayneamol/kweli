@@ -1,2 +1,2 @@
 # kweli
-Political Misinformation Classification Datasets
+Political Misinformation Classification Dataset
