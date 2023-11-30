@@ -1,7 +1,7 @@
-# kweli
-# Intro
-Political Misinformation Classification Dataset
-PolitiKweli is a Swahili-English Code-switched Twitter Political Misinformation Classification Dataset
+# PolitiKweli 
+Swahili-
+English code-switched misinformation classification dataset, containing **6,345 Swahili-English code-switched texts, **22,954 English texts and **211
+Swahili texts. 
 # Dataset
 # Paper
 # Refreences
